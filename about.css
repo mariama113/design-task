@@ -1,0 +1,436 @@
+.one {
+    border: 0;
+    outline: 0;
+    font-size: 17px;
+    position: absolute;
+    left: 160px;
+}
+.one1 {
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 0px;
+    padding-right: 0px;
+    border: 3px solid black;
+    font-size: 15px;
+    outline: 0px;
+    position: absolute;
+    left: 600px;
+}
+.one6 {
+    position: relative;
+    top: 70px;
+}
+.one2 {
+    position: absolute;
+    left: 120px;
+    top: 5px;
+}
+.one3 {
+    position: absolute;
+    left: 1320px;
+}
+.one4 {
+    position: absolute;
+    left: 1360px;
+}
+.one5 {
+    position: absolute;
+    left: 1400px;
+}
+hr {
+    color: darkgray;
+}
+nav {
+    margin-top: 30px;
+}
+.one100 {
+    position: absolute;
+    left: 1410px;
+    bottom: 1px;
+}
+.two {
+    
+    text-decoration: none;
+    color: Gray;
+  position: relative;
+    margin-left: 390px;
+    color: #c92fc9;
+}
+.two1 {
+
+    text-decoration: none;
+    color: Gray;
+position: relative;
+    margin-left: 40px;
+}
+.two2 {
+
+    text-decoration: none;
+    color: Gray;
+position: relative;
+    margin-left:40px;
+}
+.two3 {
+
+    text-decoration: none;
+    color: Gray;
+   position: relative;
+    margin-left: 40px;
+}
+.two4 {
+  
+    text-decoration: none;
+    color: Gray;
+   position: relative;
+    margin-left: 40px;
+}
+.two5 {
+
+    text-decoration: none;
+    color: Gray;
+ position: relative;
+    margin-left: 40px;
+}
+.two6 {
+    position: relative;
+    top: 8px;
+    left: 127px;
+}
+.two7 {
+    position: relative;
+    top: 8px;
+    left: -125px;
+}
+.two1:hover {
+    color: #c92fc9;
+}
+.two2:hover {
+    color: #c92fc9;
+}
+.two3:hover {
+    color: #c92fc9;
+}
+.two4:hover {
+    color: #c92fc9;
+}
+.two5:hover {
+    color: #c92fc9;
+}
+.eight2 {
+    position: relative;
+}
+.eight3 {
+    position: absolute;
+    top: 400px;
+    width: 700px;
+    left: 70px;
+}
+.eight4 {
+    position: absolute;
+    font-size: 30px;
+    top: 400px;
+    left: 880px;
+}
+.eight6 {
+    position: absolute;
+    top: 460px;
+    left: 880px;
+    color: gray;
+}
+.b {
+    position: relative;
+}
+.c {
+    position: absolute;
+    font-size: 30px;
+    top: 700px;
+    left: 700px;
+}
+.q {
+    position: relative;
+}
+.w {
+    position: absolute;
+    top: 800px;
+    width: 200px;
+    border: 1px;
+    border-radius: 100px;
+    left: 50px;
+}
+.e {
+    position: absolute;
+    font-size: 20px;
+    top: 1000px;
+    left: 80px;
+}
+.r {
+    position: absolute;
+    top: 1030px;
+    left: 80px; 
+    color: gray;
+}
+.t {
+    position: absolute;
+    top: 1070px;
+    left: 60px; 
+    color: gray;
+}
+.y {
+    position: relative;
+}
+.u {
+    position: absolute;
+    top: 800px;
+    width: 200px;
+    border: 1px;
+    border-radius: 100px;
+    left: 450px;
+}
+.i {
+    position: absolute;
+    font-size: 20px;
+    top: 1000px;
+    left: 480px;
+}
+.o {
+    position: absolute;
+    top: 1030px;
+    left: 480px; 
+    color: gray;
+}
+.p {
+    position: absolute;
+    top: 1070px;
+    left: 460px; 
+    color: gray;
+}
+.f1 {
+    position: relative;
+}
+.f2 {
+    position: absolute;
+    top: 800px;
+    width: 200px;
+    border: 1px;
+    border-radius: 100px;
+    left: 850px;
+}
+.f3 {
+    position: absolute;
+    font-size: 20px;
+    top: 1000px;
+    left: 880px;
+}
+.f4 {
+    position: absolute;
+    top: 1030px;
+    left: 880px; 
+    color: gray;
+}
+.f5 {
+    position: absolute;
+    top: 1070px;
+    left: 860px; 
+    color: gray;
+}
+.f12 {
+    position: relative;
+}
+.f22 {
+    position: absolute;
+    top: 800px;
+    width: 200px;
+    border: 1px;
+    border-radius: 100px;
+    left: 1170px;
+}
+.f32 {
+    position: absolute;
+    font-size: 20px;
+    top: 1000px;
+    left: 1200px;
+}
+.f42 {
+    position: absolute;
+    top: 1030px;
+    left: 1200px; 
+    color: gray;
+}
+.f52 {
+    position: absolute;
+    top: 1070px;
+    left: 1180px; 
+    color: gray;
+}
+.five1 {
+    position: relative;
+}
+.five2 {
+    position: absolute;
+    top: 1350px;
+    left: 150px;
+}
+.h {
+    position: absolute;
+    top: 1327px;
+    left: 200px;
+} 
+.five4 {
+    position: absolute;
+    top: 1360px;
+    left: 200px;
+}
+.five5 {
+    position: relative;
+}
+.five6 {
+    position: absolute;
+    top: 1350px;
+    left: 550px;
+}
+.hh {
+    position: absolute;
+    top: 1327px;
+    left: 600px;
+} 
+.five8 {
+    position: absolute;
+    top: 1360px;
+    left: 600px;
+}
+.five9 {
+    position: relative;
+}
+.five10 {
+    position: absolute;
+    top: 1350px;
+    left: 1000px;
+}
+.hhh {
+    position: absolute;
+    top: 1327px;
+    left: 1050px;
+} 
+.five12 {
+    position: absolute;
+    top: 1360px;
+    left: 1050px;
+}
+.twenty {
+    position: relative;
+    top: 1900px;
+    margin-left: 100px;
+}
+.twenty1 {
+    color: gray;
+}
+.twenty2 {
+    position: relative;
+    top: 1758px;
+    margin-left: 300px;
+    color: gray;
+}
+.twenty3 {
+    position: relative;
+    top: 1650px;
+    margin-left: 500px;
+    color: gray;
+}
+.third {
+    color: #c92fc9;
+}
+.fourth {
+    color: gray;
+}
+.thirty {
+    position: relative;
+    top: 1500px;
+    margin-left: 800px;
+}
+.fourty {
+    position: relative;
+}
+.fourty1 {
+    position: absolute;
+    top: 1220px;
+    left: 1140px;
+    font-size: 20px;
+    
+}
+.fourty2 {
+    position: absolute;
+    top: 1295px;
+    left: 1120px;
+}
+.fourty3 {
+    position: absolute;
+    top: 1280px;
+    left: 1150px;
+    color: gray;
+}
+.fourty4 {
+    position: relative;
+}
+.fourty5 {
+    position: absolute;
+    top: 1365px;
+    left: 1120px;
+}
+.fourty6 {
+    position: absolute;
+    top: 1350px;
+    left: 1150px;
+    color: #808080;
+}
+.fourty7 {
+    position: relative;
+}
+.fourty8 {
+    position: absolute;
+    top: 1415px;
+    left: 1120px;
+}
+.fourty9 {
+    position: absolute;
+    top: 1400px;
+    left: 1150px;
+    color: gray;
+}
+.fourty11 {
+    margin-left: 430px;
+    color: #808080;
+    margin-top: 1600px;
+    margin-bottom: 100px;
+}
+label {
+    position: relative;
+    top: 1550px;
+    left: 1120px;
+}
+.nine1 {
+    position: absolute;
+    padding-left: 5px;
+    padding-right: 60px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.nine2 {
+    position: absolute;
+    background-color: #800080;
+    left: 139px;
+    padding: 20px;
+}
+.mariam1 {
+    position: relative;
+}
+.mariam {
+    position: absolute;
+    font-size: 20px;
+    top: 1480px;
+    left: 1118px;
+}
+.tw {
+    position: absolute;
+    top: 50px;
+}
